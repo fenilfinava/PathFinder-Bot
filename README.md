@@ -16,7 +16,7 @@
 
 ## 🎥 Bot in Action
 Watch the bot seamlessly navigate the track!
-*(Depending on where this is hosted, use the native video player or download the video below to view it)*
+
 
 <div align="center">
   <video src="assets/bot_demo.mp4" width="600" controls>
