@@ -31,7 +31,7 @@ To build this robot, the following components were utilized:
 - **Microcontroller:** Arduino Uno
 - **Sensor Array:** 8-Channel IR Sensor Array (6 sensors utilized for precise PID logic)
 - **Motor Driver:** L298N Dual H-Bridge Motor Driver
-- **Actuators:** 2x DC Gear Motors
+- **Actuators:** 2x BO  Motors
 - **Power Supply:** Li-ion Battery configuration
 - **Chassis:** Custom Robot Chassis with Caster Wheel
 - **Language:** C/C++ (Arduino IDE)
